@@ -1,6 +1,6 @@
 [submodule "tf_models"]
 	path = tf_models
-	url = https://github.com/tensorflow/models.git
+	url = https://github.com/zxq-bit/models.git
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/zxq-bit/tensorflow.git
